@@ -1,0 +1,13 @@
+altdss==0.2.4
+cffi==1.17.1
+dss-python==0.15.7
+dss_python_backend==0.14.5
+numpy==2.2.1
+pandas==2.2.3
+pycparser==2.22
+python-dateutil==2.9.0.post0
+pytz==2024.2
+scipy==1.14.1
+six==1.17.0
+typing_extensions==4.12.2
+tzdata==2024.2
