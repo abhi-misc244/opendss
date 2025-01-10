@@ -1,0 +1,2 @@
+New Line.consumer_mains	Phases=3	bus1=TR01_LV_Term	bus2=MCC01	LineCode=LV_3C_Cu_PVC_016	Length=15	units=m
+New Line.motor_cable	Phases=3	bus1=MCC01	bus2=MTR01_term	LineCode=LV_3C_Cu_PVC_016	Length=15	units=m

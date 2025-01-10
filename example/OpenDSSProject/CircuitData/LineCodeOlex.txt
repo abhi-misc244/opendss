@@ -1,0 +1,44 @@
+New LineCode.LV_3C_Cu_PVC_1.5 nphases=3 R1=16.500 X1=0.111 R0=16.500 X0=0.111 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_2.5 nphases=3 R1=9.010 X1=0.102 R0=9.010 X0=0.102 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_4 nphases=3 R1=5.610 X1=0.102 R0=5.610 X0=0.102 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_6 nphases=3 R1=3.750 X1=0.097 R0=3.750 X0=0.097 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_010 nphases=3 R1=00.327 X1=0.077 R0=0.327 X0=0.077 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_016 nphases=3 R1=00.236 X1=0.077 R0=0.236 X0=0.077 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_025 nphases=3 R1=02.230 X1=0.091 R0=2.23 X0=0.091 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_035 nphases=3 R1=01.400 X1=0.086 R0=1.400 X0=0.086 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_050 nphases=3 R1=00.884 X1=0.085 R0=0.884 X0=0.085 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_070 nphases=3 R1=00.638 X1=0.083 R0=0.638 X0=0.083 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_095 nphases=3 R1=00.471 X1=0.080 R0=0.471 X0=0.080 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_120 nphases=3 R1=00.188 X1=0.074 R0=0.188 X0=0.074 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_150 nphases=3 R1=00.153 X1=0.074 R0=0.153 X0=0.074 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_185 nphases=3 R1=00.123 X1=0.074 R0=0.123 X0=0.074 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_240 nphases=3 R1=00.096 X1=0.074 R0=0.096 X0=0.074 C1=0 C0=0 Units=km
+New LineCode.LV_3C_Cu_PVC_300 nphases=3 R1=00.078 X1=0.073 R0=0.078 X0=0.073 C1=0 C0=0 Units=km
+
+New LineCode.33kV_1C_Cu_XLPE_50 nphases=3 R1=0.494 X1=0.163 R0=0.759 X0=0.1 C1=0.133 C0=0.133 Units=km
+New LineCode.33kV_1C_Cu_XLPE_70 nphases=3 R1=0.342 X1=0.154 R0=0.531 X0=0.092 C1=0.148 C0=0.148 Units=km
+New LineCode.33kV_1C_Cu_XLPE_95 nphases=3 R1=0.247 X1=0.143 R0=0.457 X0=0.082 C1=0.165 C0=0.165 Units=km
+New LineCode.33kV_1C_Cu_XLPE_120 nphases=3 R1=0.195 X1=0.137 R0=0.416 X0=0.077 C1=0.179 C0=0.179 Units=km
+New LineCode.33kV_1C_Cu_XLPE_150 nphases=3 R1=0.159 X1=0.133 R0=0.389 X0=0.073 C1=0.191 C0=0.191 Units=km
+New LineCode.33kV_1C_Cu_XLPE_185 nphases=3 R1=0.127 X1=0.129 R0=0.364 X0=0.069 C1=0.205 C0=0.205 Units=km
+New LineCode.33kV_1C_Cu_XLPE_185 nphases=3 R1=0.127 X1=0.129 R0=0.364 X0=0.069 C1=0.205 C0=0.205 Units=km
+New LineCode.33kV_1C_Cu_XLPE_240 nphases=3 R1=0.098 X1=0.124 R0=0.34 X0=0.065 C1=0.227 C0=0.227 Units=km
+New LineCode.33kV_1C_Cu_XLPE_240 nphases=3 R1=0.098 X1=0.124 R0=0.34 X0=0.065 C1=0.227 C0=0.227 Units=km
+New LineCode.33kV_1C_Cu_XLPE_300 nphases=3 R1=0.079 X1=0.12 R0=0.325 X0=0.061 C1=0.247 C0=0.247 Units=km
+New LineCode.33kV_1C_Cu_XLPE_300 nphases=3 R1=0.079 X1=0.12 R0=0.325 X0=0.061 C1=0.247 C0=0.247 Units=km
+New LineCode.33kV_1C_Cu_XLPE_630 nphases=3 R1=0.04 X1=0.108 R0=0.294 X0=0.05 C1=0.329 C0=0.329 Units=km
+
+New LineCode.22kV_1C_Cu_XLPE_35 nphases=3 R1=0.668 X1=0.159 R0=1.05 X0=0.094 C1=0.156 C0=0.156 Units=km
+New LineCode.22kV_1C_Cu_XLPE_50 nphases=3 R1=0.494 X1=0.151 R0=0.758 X0=0.087 C1=0.171 C0=0.171 Units=km
+New LineCode.22kV_1C_Cu_XLPE_70 nphases=3 R1=0.342 X1=0.143 R0=0.531 X0=0.08 C1=0.192 C0=0.192 Units=km
+New LineCode.22kV_1C_Cu_XLPE_95 nphases=3 R1=0.247 X1=0.132 R0=0.463 X0=0.07 C1=0.216 C0=0.216 Units=km
+New LineCode.22kV_1C_Cu_XLPE_120 nphases=3 R1=0.196 X1=0.127 R0=0.423 X0=0.066 C1=0.236 C0=0.236 Units=km
+New LineCode.22kV_1C_Cu_XLPE_150 nphases=3 R1=0.159 X1=0.123 R0=0.394 X0=0.063 C1=0.254 C0=0.254 Units=km
+New LineCode.22kV_1C_Cu_XLPE_185 nphases=3 R1=0.128 X1=0.119 R0=0.369 X0=0.059 C1=0.274 C0=0.274 Units=km
+New LineCode.22kV_1C_Cu_XLPE_185 nphases=3 R1=0.128 X1=0.119 R0=0.369 X0=0.059 C1=0.274 C0=0.274 Units=km
+New LineCode.22kV_1C_Cu_XLPE_240 nphases=3 R1=0.098 X1=0.115 R0=0.346 X0=0.055 C1=0.305 C0=0.305 Units=km
+New LineCode.22kV_1C_Cu_XLPE_300 nphases=3 R1=0.079 X1=0.112 R0=0.33 X0=0.053 C1=0.334 C0=0.334 Units=km
+New LineCode.22kV_1C_Cu_XLPE_300 nphases=3 R1=0.079 X1=0.112 R0=0.33 X0=0.053 C1=0.334 C0=0.334 Units=km
+New LineCode.22kV_1C_Cu_XLPE_400 nphases=3 R1=0.063 X1=0.107 R0=0.318 X0=0.049 C1=0.371 C0=0.371 Units=km
+New LineCode.22kV_1C_Cu_XLPE_630 nphases=3 R1=0.041 X1=0.101 R0=0.3 X0=0.044 C1=0.453 C0=0.453 Units=km
+

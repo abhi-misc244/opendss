@@ -1,0 +1,2 @@
+New Monitor.consumer_mains_monitor	element=line.Consumer_mains	mode=0
+New Monitor.motor_cable_monitor	element=line.motor_cable	mode=0

@@ -1,0 +1,4 @@
+New load.Load01	kV=0.415	bus1=MCC01	phases=3	kW=2.2	Pf=0.8
+New load.Load02	kV=0.415	bus1=MCC01	phases=3	kW=2.2	Pf=0.8
+New load.Load03	kV=0.415	bus1=MCC01	phases=3	kW=2.2	Pf=0.8
+New load.Load04	kV=0.415	bus1=MCC01	phases=3	kW=2.2	Pf=0.8

@@ -1,0 +1,1 @@
+New transformer.TR01	phases=3	windings=2	buses=(WP_HV, TR01_LV_Term)	conns=[Wye wye]	kVs=[22 .415]	kVAs=[1000 1000]	XHL=3.7

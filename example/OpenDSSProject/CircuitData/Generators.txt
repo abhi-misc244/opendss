@@ -1,0 +1,2 @@
+New generator.MTR01	kV=0.415	bus1=MTR01_term	kVA=10	kW=8	pf=0.8	H=1	Model=6	UserModel=IndMach012a	userdata=[slip=0.00621604 SlipOption=variableslip]
+

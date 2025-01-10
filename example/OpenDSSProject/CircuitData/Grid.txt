@@ -1,0 +1,1 @@
+New circuit.WPFeeder1	BasekV=22	bus=WP_HV	pu=1	phases=3	MVAsc3=3.7083999999999997	MVAsc1=3.7083999999999997
